@@ -12,7 +12,7 @@
 
 
 ## Project Schedule
-## Week 1
+## Week 1 ([Slides](https://docs.google.com/presentation/d/1kNpgATzLse7ZOE_rHp5N3c7yqyxgLaUbcgDiwzJ4isI/edit?usp=sharing))
 - Task 1: Detection metrics.
 - Task 2: Detection metrics. Temporal analysis.
 - Task 3: Optical flow evaluation metrics.
