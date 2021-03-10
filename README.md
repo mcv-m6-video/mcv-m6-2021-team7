@@ -1,4 +1,4 @@
-# M6 Video Analysis
+# M6 Video Analysis - MCV
 
 ## Video Surveillance for Road Traffic Monitoring
 
@@ -21,22 +21,22 @@
 Process to run the code
 
 1. Add paths to data files:
-   - Task 1
-     - Groundtruth xml path: --Line xx
-     - Prediction paths:
-       - Mask rcnn: --Line xx
-       - Ssd512: --Line xx
-       - Yolo3: --Line xx
+   - Task 1.1
+     - Groundtruth xml path: --Lines 17
+   - Task 1.2
+     - Groundtruth xml path: --Lines 78
+     - Prediction paths: --Lines 80-82
    - Task 2
-     - Groundtruth xml path: --Line xx
-     - Video path: --Line xx
-     - Prediction paths:
-       - Mask rcnn: --Line xx
-       - Ssd512: --Line xx
-       - Yolo3: --Line xx
+     - Groundtruth xml path: --Line 105
+     - Video path: --Line 106
+     - Prediction paths: --Lines 108-110
    - Task 3
+     - Flow prediction: --Line 148
+     - Groundtruth flow: --Line 149
    - Task 4
-
-2. Select the task to run leaving it uncommented: --lines xx
+     - Flow prediction: --Line 173
+     - Groundtruth flow: --Line 174
+     - Image path: --Line 175
+2. Select the task to run leaving it uncommented: --Lines 184-188
 3. Run: >> python lab1.py
 
