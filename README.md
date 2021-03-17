@@ -40,3 +40,29 @@ Process to run the code
 2. Select the task to run leaving it uncommented: --Lines 184-188
 3. Run: >> python lab1.py
 
+## Week 2 
+- Task 1: Gaussian modeling of the background for foreground extraction and evaluation. 
+- Task 2: Adaptive modeling and evaluation. 
+- Task 3: State-of-the-art methods for foreground extraction. 
+- Task 4: Use color spaces to perform foreground extraction. 
+
+Process to run the code
+
+1. Add paths to data files:
+   - Task 1.1
+     - Groundtruth xml path: --Lines 11
+     - Video path: --Lines 15
+   - Task 1.2
+     - The user variables are the same than in task 1.1
+   - Task 2
+     - Groundtruth xml path: --Line 51
+     - Video path: --Line 55
+     - Prediction paths: --Lines 108-110
+   - Task 3
+     - Groundtruth xml path: --Lines: 103
+     - Video path: --Lines: 106
+   - Task 4
+     - The experiments were executed using the previous code. 
+2. Select the task to run leaving it uncommented: --Lines 126-128
+3. Run: >> python lab2.py
+
