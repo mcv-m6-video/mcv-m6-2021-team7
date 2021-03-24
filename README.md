@@ -66,3 +66,41 @@ Process to run the code
 2. Select the task to run leaving it uncommented: --Lines 126-128
 3. Run: >> python lab2.py
 
+## Week 3 
+- Task 1: Object detection
+- Task 1.1: Off-the-shelf
+- Task 1.2: Fine-tune to your data
+- Task 1.3: K-Fold Cross Validation
+- Task 2: Object tracking
+- Task 2.1: Tracking by Overlap
+- Task 2.2: Tracking with a Kalman Filter
+- Task 2.3: IDF1 score
+
+Process to run the code
+
+1. Add paths to data files:
+   - Task 1.1
+     - Model name: --Line 21
+     - Groundtruth xml path: --Lines 22
+     - Video path: --Lines 23
+   - Task 1.2_B (Cross_val technique B)
+     - Hyperparameters: --Lines 72-74
+     - Gt path: -- Line 78
+     - Video path: --Line 79
+   - Task 1.2_C  (Cross_val technique C)     
+     - Hyperparameters: --Lines 195-197
+     - Gt path: -- Line 201
+     - Video path: --Line 202
+   - Task 2.1
+     - Pkl path (with bboxes and socores): --Lines: 316
+     - Video path: --Lines: 317
+     - Gt path: --Line 318
+     - Parameters: --Lines 319-323
+   - Task 2.2
+     - Pkl path (with bboxes and socores): --Lines: 498
+     - Video path: --Lines: 499
+     - Gt path: --Line 500
+     - Parameters: --Lines 501-502
+2. Select the task to run leaving it uncommented: --Lines 626-630
+3. Run: >> python lab3.py
+
