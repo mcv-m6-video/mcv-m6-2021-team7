@@ -104,3 +104,37 @@ Process to run the code
 2. Select the task to run leaving it uncommented: --Lines 626-630
 3. Run: >> python lab3.py
 
+
+## Week 4
+- Task 1.1: Block matching implementation
+- Task 1.2: Off-the-shelf optical flow methods
+- Task 2.1: Video stabilization with Block Matching
+- Task 2.2: Off-the-shelf Stabilization
+- Task 3.1: Object tracking with optical flow
+
+Process to run the code
+
+1. Add paths to data files:
+   - Task 1.1
+     - Perform grid search: --Line 24
+     - Distance function for template matching: --Line 24
+     - Image 1 path: --Line 29
+     - Image 2 path: --Line 30
+     - Flow gt path: --Line 33
+   - Task 1.2
+     - Algorithm: --Line 107
+     - Image 1 path: --Line 109
+     - Image 2 path: --Line 110
+     - Flow gt path: --Line 113
+   - Task 2.1
+     - Video path: --Lines: 208
+   - Task 2.2
+     - Method: --Line 260
+   - Task 3.1
+     - Pkl file: --Line 323
+     - Video path: --Lines: 324
+     - Gt path: --Line 325
+     - Parameters: --Lines 326-330
+2. Select the task to run leaving it uncommented: --Lines 528-532
+3. Run: >> python lab4.py
+
