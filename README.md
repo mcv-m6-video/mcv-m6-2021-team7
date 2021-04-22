@@ -11,7 +11,8 @@
 | Antoni Rodríquez| antoni.rodriguez@e-campus.uab.cat  | antoniRodriguez |
 
 
-- Report in LateX [here]()
+- Link to our final report in LateX [here]()
+- Presentation slides linked at each week explanation
 - Dataset used: In this project we used the dataset from [CVPR 2020 AI City Challenge](https://www.aicitychallenge.org/), specifically the sequence 03 for testing, and sequences 01 and 04 for training.
 
 
@@ -143,7 +144,7 @@ Process to run the code
 3. Run: >> python lab4.py
 
 
-## Week 5 ([Slies](https://docs.google.com/presentation/d/1urabVFpes0Lc_ao0FNEmwvkLzny8GpsogwU15xpdJy4/edit?usp=sharing))
+## Week 5 ([Slides](https://docs.google.com/presentation/d/1urabVFpes0Lc_ao0FNEmwvkLzny8GpsogwU15xpdJy4/edit?usp=sharing))
 - Task 1: Multi-target Single-camera Tracking
 - Task 2: Multi-target Multi-camera Tracking
 
