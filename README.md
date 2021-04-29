@@ -6,12 +6,12 @@
 | Members        |  Mail                           | Github |
 | :---           | ---:                            | ---: |
 | Alex Tempelaar | alexander.tempelaar@e-campus.uab.cat | Tempe25 |
-| Víctor ubieto  | victor.ubieto@e-campus.uab.cat   | victorubieto |
+| Víctor Ubieto  | victor.ubieto@e-campus.uab.cat   | victorubieto |
 | Mar Ferrer     | mar.ferrerf@e-campus.uab.cat  | namarsu |
 | Antoni Rodríquez| antoni.rodriguez@e-campus.uab.cat  | antoniRodriguez |
 
 
-- Link to our final report in LateX [here]()
+- Link to our final report in LateX [here](https://es.overleaf.com/read/sfjmqkpwkwfp)
 - Presentation slides linked at each week explanation
 - Dataset used: In this project we used the dataset from [CVPR 2020 AI City Challenge](https://www.aicitychallenge.org/), specifically the sequence 03 for testing, and sequences 01 and 04 for training.
 
